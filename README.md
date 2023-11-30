@@ -15,6 +15,15 @@ RAG hangi adımlardan oluşur:
  
 ![image](https://github.com/devops-alierdogan/wikiqna/assets/132436988/3abb1f80-8a3e-4f49-98d2-8fc2ba9aa955)
 
+
+## TODOs
+- [X]  load pre-defined collection 
+- [ ]  upload file for DocumentQnA
+- [ ]  Allow open-source LLMs
+- [ ]  Streaming response
+- [X]  Add docker/docker compose
+
+
 ### Run Docker file 
 
 ``` 
