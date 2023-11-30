@@ -13,6 +13,7 @@ RAG hangi adımlardan oluşur:
 3- Vectorleri saklama
 4- Semantic search ( anlamsal olarak en yakını arama)
  
+![image](https://github.com/devops-alierdogan/wikiqna/assets/132436988/3abb1f80-8a3e-4f49-98d2-8fc2ba9aa955)
 
 ### Run Docker file 
 
