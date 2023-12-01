@@ -4,7 +4,7 @@
 ## Amaç: 10 tane belgede aramak veya 10 farklı kişiye sormak yerine, bilgi kaynağına kolayca RAG yaparak Large Languange Model'e bu soruyu sormak. 
 
 
-LLM modelleri başlangıçta cümledeki bir sonraki kelimeyi tahmin edecek şekilde eğitilir. ancak bu araçlar halisünasyon yaratma ve önyargılı cevaplar verme eğilimindedir. bu sorunu çözmek için RAG (Retrieval Augmented Generation ) tekniği kullanılır. 
+LLM modelleri başlangıçta cümledeki bir sonraki kelimeyi tahmin edecek şekilde eğitilir. Ancak bu araçlar halisünasyon yaratma ve önyargılı cevaplar verme eğilimindedir. Bu sorunu çözmek için RAG (Retrieval Augmented Generation ) tekniği kullanılır. 
 
 RAG hangi adımlardan oluşur: 
 
@@ -15,6 +15,8 @@ RAG hangi adımlardan oluşur:
 3- Vectorleri saklama
 
 4- Semantic search ( anlamsal olarak en yakını arama)
+
+5- LLM retriaval (Gönderilen içeriğe göre senteztenlenmiş yanıtı geri almak)
 
  
 ![image](https://github.com/devops-alierdogan/wikiqna/assets/132436988/3abb1f80-8a3e-4f49-98d2-8fc2ba9aa955)
