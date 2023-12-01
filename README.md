@@ -10,7 +10,7 @@ RAG hangi adımlardan oluşur:
 
 1- Chunkların oluşturuması ( Topyekün metni veremeyiz, Dil modellerinin dayattığı boyut sınırı vardır.)
 
-2- Embeddingleri oluşturuması (textlerin  vector denilen float değerli tek boyutlu diziler ) 
+2- Embeddingleri oluşturuması (textlerin float değerli tek boyutlu dizilere diğer adıyla vektöre dönüştürülmesi  ) 
 
 3- Vectorleri saklama
 
