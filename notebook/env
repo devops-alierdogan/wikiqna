@@ -1,0 +1,17 @@
+OPENAI_API_KEY=**
+OPENAI_API_TYPE=azure
+OPENAI_API_VERSION=2023-03-15-preview
+OPENAI_API_BASE=https://softtech-***
+ 
+CONFLUENCE_API_TOKEN=***
+CONFLUENCE_USERNAME='***@softtech.com.tr'
+CONFLUENCE_BASE_URL = "https://wiki.softtech.com.tr/"
+CONFLUENCE_SPACE_KEY = "SDO"
+ 
+COLLECTION_NAME = 'SDO'
+DIMENSION = 1536 
+MILVUS_HOST = ***
+MILVUS_PORT = '19530'
+OPENAI_ENGINE = 'text-embedding-ada-002'
+
+ 
